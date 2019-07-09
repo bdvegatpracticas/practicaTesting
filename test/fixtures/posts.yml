@@ -3,9 +3,10 @@
 one:
   title: MyString
   body: MyString
-  user: one
+  user: valid
 
 two:
   title: MyString
   body: MyString
-  user: two
+  user: valid
+
